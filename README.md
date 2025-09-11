@@ -1,2 +1,2 @@
-# engima-prosjektfiler
+# enigma-prosjektfiler
 prosjektfilene til enigmamaskinen
